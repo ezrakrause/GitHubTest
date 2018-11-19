@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitDatabaseTest", "gitDatabaseTest\gitDatabaseTest.csproj", "{19766B90-2834-48B5-AB0A-C3C946DCFA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitDatabaseTest.Tests", "gitDatabaseTest.Tests\gitDatabaseTest.Tests.csproj", "{CE2D8B34-5D52-443B-819E-DA217D72CB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19766B90-2834-48B5-AB0A-C3C946DCFA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19766B90-2834-48B5-AB0A-C3C946DCFA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19766B90-2834-48B5-AB0A-C3C946DCFA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19766B90-2834-48B5-AB0A-C3C946DCFA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2D8B34-5D52-443B-819E-DA217D72CB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2D8B34-5D52-443B-819E-DA217D72CB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2D8B34-5D52-443B-819E-DA217D72CB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2D8B34-5D52-443B-819E-DA217D72CB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC1600D8-162A-433D-AD28-E62D959B00F4}
+	EndGlobalSection
+EndGlobal
